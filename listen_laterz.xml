@@ -7,7 +7,7 @@
     <category>TV &amp; Film</category>
     <generator>Podsync generator (support us at https://github.com/mxpv/podsync)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 06 Jan 2021 05:22:58 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 Jan 2021 05:46:28 +0000</lastBuildDate>
     <pubDate>Mon, 28 Dec 2020 19:48:38 +0000</pubDate>
     <image>
       <url>https://i.ytimg.com/vi/P380D7yX8xQ/default.jpg</url>
@@ -26,7 +26,7 @@
       <link>https://youtube.com/watch?v=d_yxhNGsJU8</link>
       <description>Today web programming is limited to JavaScript. Tomorrow we’ll probably see something different. Web assembly aims to break JavaScript’s monopoly on the browser using an old-fashioned approach. Rather than using a single interpreted language (JavaScript), web programs could be written in any language and then compiled down into (web) assembly code that would run in the browser. In the future, it’s unlikely that JavaScript will maintain its hold on frontend web development. But it had a great run.&#xA;&#xA;Credits: Talking: Geoffrey Challen (Assistant Professor, Computer Science and Engineering, University at Buffalo). Producing: Greg Bunyea (Undergraduate, Computer Science and Engineering, University at Buffalo).&#xA;&#xA;Part of the https://www.internet-class.org online internet course. A blue Systems Research Group (https://www.bluegroup.systems) production.</description>
       <pubDate>Wed, 06 Jan 2021 05:00:24 +0000</pubDate>
-      <enclosure url="https://github.com/rockswhat/listener/blob/main/listen_laterz/d_yxhNGsJU8.mp3" length="3122781" type="audio/mpeg"></enclosure>
+      <enclosure url="https://rockswhat.github.io/listener/listen_laterz/d_yxhNGsJU8.mp3" length="3122781" type="audio/mpeg"></enclosure>
       <itunes:author>Charlie Harrington: Listen Laterz</itunes:author>
       <itunes:subtitle>What is web assembly?</itunes:subtitle>
       <itunes:summary><![CDATA[Today web programming is limited to JavaScript. Tomorrow we’ll probably see something different. Web assembly aims to break JavaScript’s monopoly on the browser using an old-fashioned approach. Rather than using a single interpreted language (JavaScript), web programs could be written in any language and then compiled down into (web) assembly code that would run in the browser. In the future, it’s unlikely that JavaScript will maintain its hold on frontend web development. But it had a great run.
@@ -45,7 +45,7 @@ Part of the https://www.internet-class.org online internet course. A blue System
       <link>https://youtube.com/watch?v=P380D7yX8xQ</link>
       <description>Why discuss the internet?&#xA;The internet is the transformative technology of our age. It defines the era that we live in. And if you are a computer scientist, it represents the crowning achievement of your field and the platform that will deliver most of your new great ideas. Discussing the internet allows us to survey some of the best contributions of computer science, learn powerful design principles, and understand the world around us. Discussing the internet also allows us to consider how it is changing us, and dream about how we can use it to change our world.&#xA;&#xA;Credits: Talking: Geoffrey Challen (Assistant Professor, Computer Science and Engineering, University at Buffalo). Producing: Greg Bunyea (Undergraduate, Computer Science and Engineering, University at Buffalo).&#xA;&#xA;Part of the https://www.internet-class.org online internet course. A blue Systems Research Group (https://blue.cse.buffalo.edu) production.</description>
       <pubDate>Wed, 06 Jan 2021 03:54:55 +0000</pubDate>
-      <enclosure url="https://github.com/rockswhat/listener/blob/main/listen_laterz/P380D7yX8xQ.mp3" length="3261693" type="audio/mpeg"></enclosure>
+      <enclosure url="https://rockswhat.github.io/listener/listen_laterz/P380D7yX8xQ.mp3" length="3261693" type="audio/mpeg"></enclosure>
       <itunes:author>Charlie Harrington: Listen Laterz</itunes:author>
       <itunes:subtitle>Why discuss the internet?</itunes:subtitle>
       <itunes:summary><![CDATA[Why discuss the internet?
