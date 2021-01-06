@@ -7,7 +7,7 @@
     <category>TV &amp; Film</category>
     <generator>Podsync generator (support us at https://github.com/mxpv/podsync)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 06 Jan 2021 16:06:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 Jan 2021 16:26:27 +0000</lastBuildDate>
     <pubDate>Mon, 28 Dec 2020 19:48:38 +0000</pubDate>
     <image>
       <url>https://i.ytimg.com/vi/P380D7yX8xQ/default.jpg</url>
@@ -20,6 +20,27 @@
     <itunes:image href="https://i.ytimg.com/vi/P380D7yX8xQ/default.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="TV &amp; Film"></itunes:category>
+    <item>
+      <guid>vvZA9n3e5pc</guid>
+      <title>Stanford Seminar - The Soul of a New Machine: Rethinking the Computer</title>
+      <link>https://youtube.com/watch?v=vvZA9n3e5pc</link>
+      <description>Bryan Cantrill&#xA;Oxide Computer Company&#xA;&#xA;February 26, 2020&#xA;While our software systems have become increasingly elastic, the physical substrate available to run that software (that is, the computer!) has remained stuck in a bygone era of PC architecture. Hyperscale infrastructure providers have long since figured this out, building machines that are fit to purpose -- but those advances have been denied to the mass market. In this talk, we will talk about our vision for a new, rack-scale, server-side machine -- and how we anticipate advances like open firmware, RISC-V, and Rust will play a central role in realizing that vision.&#xA;&#xA;View the full playlist: https://www.youtube.com/playlist?list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu</description>
+      <pubDate>Wed, 06 Jan 2021 16:06:50 +0000</pubDate>
+      <enclosure url="https://rockswhat.github.io/listener/listen_laterz/vvZA9n3e5pc.mp3" length="52038549" type="audio/mpeg"></enclosure>
+      <itunes:author>Charlie Harrington: Listen Laterz</itunes:author>
+      <itunes:subtitle>Stanford Seminar - The Soul of a New Machine: Rethinking the Computer</itunes:subtitle>
+      <itunes:summary><![CDATA[Bryan Cantrill
+Oxide Computer Company
+
+February 26, 2020
+While our software systems have become increasingly elastic, the physical substrate available to run that software (that is, the computer!) has remained stuck in a bygone era of PC architecture. Hyperscale infrastructure providers have long since figured this out, building machines that are fit to purpose -- but those advances have been denied to the mass market. In this talk, we will talk about our vision for a new, rack-scale, server-side machine -- and how we anticipate advances like open firmware, RISC-V, and Rust will play a central role in realizing that vision.
+
+View the full playlist: https://www.youtube.com/playlist?list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu]]></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/vvZA9n3e5pc/default.jpg"></itunes:image>
+      <itunes:duration>1:26:02</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>1</itunes:order>
+    </item>
     <item>
       <guid>ji5_MqicxSo</guid>
       <title>Randy Pausch Last Lecture: Achieving Your Childhood Dreams</title>
@@ -37,7 +58,7 @@ Learn how to support the Randy Pausch Memorial Bridge, visit: http://www.cmu.edu
       <itunes:image href="https://i.ytimg.com/vi/ji5_MqicxSo/default.jpg"></itunes:image>
       <itunes:duration>1:16:27</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>1</itunes:order>
+      <itunes:order>2</itunes:order>
     </item>
     <item>
       <guid>Ud8WRAdihPg</guid>
@@ -54,7 +75,7 @@ http://webcast.berkeley.edu/course_details_new.php?seriesid=2008-D-26263&semeste
       <itunes:image href="https://i.ytimg.com/vi/Ud8WRAdihPg/default.jpg"></itunes:image>
       <itunes:duration>8:42</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>2</itunes:order>
+      <itunes:order>3</itunes:order>
     </item>
     <item>
       <guid>a1zDuOPkMSw</guid>
@@ -75,7 +96,7 @@ This course is intended to instill a "style of thinking" that will enhance one's
       <itunes:image href="https://i.ytimg.com/vi/a1zDuOPkMSw/default.jpg"></itunes:image>
       <itunes:duration>44:03</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>3</itunes:order>
+      <itunes:order>4</itunes:order>
     </item>
     <item>
       <guid>d_yxhNGsJU8</guid>
@@ -94,7 +115,7 @@ Part of the https://www.internet-class.org online internet course. A blue System
       <itunes:image href="https://i.ytimg.com/vi/d_yxhNGsJU8/default.jpg"></itunes:image>
       <itunes:duration>5:18</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>4</itunes:order>
+      <itunes:order>5</itunes:order>
     </item>
     <item>
       <guid>P380D7yX8xQ</guid>
@@ -114,7 +135,7 @@ Part of the https://www.internet-class.org online internet course. A blue System
       <itunes:image href="https://i.ytimg.com/vi/P380D7yX8xQ/default.jpg"></itunes:image>
       <itunes:duration>5:22</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>5</itunes:order>
+      <itunes:order>6</itunes:order>
     </item>
   </channel>
 </rss>
