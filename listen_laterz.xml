@@ -7,7 +7,7 @@
     <category>TV &amp; Film</category>
     <generator>Podsync generator (support us at https://github.com/mxpv/podsync)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 06 Jan 2021 04:52:58 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 Jan 2021 05:22:58 +0000</lastBuildDate>
     <pubDate>Mon, 28 Dec 2020 19:48:38 +0000</pubDate>
     <image>
       <url>https://i.ytimg.com/vi/P380D7yX8xQ/default.jpg</url>
@@ -20,6 +20,25 @@
     <itunes:image href="https://i.ytimg.com/vi/P380D7yX8xQ/default.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="TV &amp; Film"></itunes:category>
+    <item>
+      <guid>d_yxhNGsJU8</guid>
+      <title>What is web assembly?</title>
+      <link>https://youtube.com/watch?v=d_yxhNGsJU8</link>
+      <description>Today web programming is limited to JavaScript. Tomorrow we’ll probably see something different. Web assembly aims to break JavaScript’s monopoly on the browser using an old-fashioned approach. Rather than using a single interpreted language (JavaScript), web programs could be written in any language and then compiled down into (web) assembly code that would run in the browser. In the future, it’s unlikely that JavaScript will maintain its hold on frontend web development. But it had a great run.&#xA;&#xA;Credits: Talking: Geoffrey Challen (Assistant Professor, Computer Science and Engineering, University at Buffalo). Producing: Greg Bunyea (Undergraduate, Computer Science and Engineering, University at Buffalo).&#xA;&#xA;Part of the https://www.internet-class.org online internet course. A blue Systems Research Group (https://www.bluegroup.systems) production.</description>
+      <pubDate>Wed, 06 Jan 2021 05:00:24 +0000</pubDate>
+      <enclosure url="https://github.com/rockswhat/listener/blob/main/listen_laterz/d_yxhNGsJU8.mp3" length="3122781" type="audio/mpeg"></enclosure>
+      <itunes:author>Charlie Harrington: Listen Laterz</itunes:author>
+      <itunes:subtitle>What is web assembly?</itunes:subtitle>
+      <itunes:summary><![CDATA[Today web programming is limited to JavaScript. Tomorrow we’ll probably see something different. Web assembly aims to break JavaScript’s monopoly on the browser using an old-fashioned approach. Rather than using a single interpreted language (JavaScript), web programs could be written in any language and then compiled down into (web) assembly code that would run in the browser. In the future, it’s unlikely that JavaScript will maintain its hold on frontend web development. But it had a great run.
+
+Credits: Talking: Geoffrey Challen (Assistant Professor, Computer Science and Engineering, University at Buffalo). Producing: Greg Bunyea (Undergraduate, Computer Science and Engineering, University at Buffalo).
+
+Part of the https://www.internet-class.org online internet course. A blue Systems Research Group (https://www.bluegroup.systems) production.]]></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/d_yxhNGsJU8/default.jpg"></itunes:image>
+      <itunes:duration>5:18</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>1</itunes:order>
+    </item>
     <item>
       <guid>P380D7yX8xQ</guid>
       <title>Why discuss the internet?</title>
@@ -38,7 +57,7 @@ Part of the https://www.internet-class.org online internet course. A blue System
       <itunes:image href="https://i.ytimg.com/vi/P380D7yX8xQ/default.jpg"></itunes:image>
       <itunes:duration>5:22</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>1</itunes:order>
+      <itunes:order>2</itunes:order>
     </item>
   </channel>
 </rss>
