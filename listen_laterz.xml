@@ -7,7 +7,7 @@
     <category>TV &amp; Film</category>
     <generator>Podsync generator (support us at https://github.com/mxpv/podsync)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 09 Jan 2021 15:36:27 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 09 Jan 2021 15:56:27 +0000</lastBuildDate>
     <pubDate>Mon, 28 Dec 2020 19:48:38 +0000</pubDate>
     <image>
       <url>https://i.ytimg.com/vi/P380D7yX8xQ/default.jpg</url>
@@ -20,6 +20,38 @@
     <itunes:image href="https://i.ytimg.com/vi/P380D7yX8xQ/default.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="TV &amp; Film"></itunes:category>
+    <item>
+      <guid>EY6q5dv_B-o</guid>
+      <title>VCF East 2019 -- Brian Kernighan interviews Ken Thompson</title>
+      <link>https://youtube.com/watch?v=EY6q5dv_B-o</link>
+      <description>In the 1960s-1970s, Ken Thompson co-invented the UNIX operating system along with Dennis Ritchie at Bell Labs. He also worked on the language B, the operating system Plan 9, and the language Go. He and Ritchie won the Turing Award. He now works at Google. He’ll be interviewed by Brian Kernighan of “K&amp;R” fame.&#xA;&#xA;This talk took place May 4, 2019. Videography courtesy of  @thegurumeditation (Facebook), @thegurumeditate (Twitter)&#xA;&#xA;Vintage Computer Federation: https://vcfed.org&#xA;VCF Discord: https://discord.gg/u4ybsBK&#xA;&#xA;0:00 Start of Video, Introductions and Updates&#xA;8:13 Start of Fireside Chat&#xA;11:02 How Ken got to Bell Labs&#xA;17:25 Origins of UNIX&#xA;22:40 Three weeks away from an OS&#xA;29:27 The PDP-11&#xA;32:48 Pipes&#xA;35:42 GREP&#xA;38:40 Languages and Evolution&#xA;46:25 Chess Computers&#xA;1:02:40 End of Chat</description>
+      <pubDate>Sat, 09 Jan 2021 15:37:16 +0000</pubDate>
+      <enclosure url="https://rockswhat.github.io/listener/listen_laterz/EY6q5dv_B-o.mp3" length="36893997" type="audio/mpeg"></enclosure>
+      <itunes:author>Charlie Harrington: Listen Laterz</itunes:author>
+      <itunes:subtitle>VCF East 2019 -- Brian Kernighan interviews Ken Thompson</itunes:subtitle>
+      <itunes:summary><![CDATA[In the 1960s-1970s, Ken Thompson co-invented the UNIX operating system along with Dennis Ritchie at Bell Labs. He also worked on the language B, the operating system Plan 9, and the language Go. He and Ritchie won the Turing Award. He now works at Google. He’ll be interviewed by Brian Kernighan of “K&R” fame.
+
+This talk took place May 4, 2019. Videography courtesy of  @thegurumeditation (Facebook), @thegurumeditate (Twitter)
+
+Vintage Computer Federation: https://vcfed.org
+VCF Discord: https://discord.gg/u4ybsBK
+
+0:00 Start of Video, Introductions and Updates
+8:13 Start of Fireside Chat
+11:02 How Ken got to Bell Labs
+17:25 Origins of UNIX
+22:40 Three weeks away from an OS
+29:27 The PDP-11
+32:48 Pipes
+35:42 GREP
+38:40 Languages and Evolution
+46:25 Chess Computers
+1:02:40 End of Chat]]></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/EY6q5dv_B-o/default.jpg"></itunes:image>
+      <itunes:duration>1:03:51</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>1</itunes:order>
+    </item>
     <item>
       <guid>vvZA9n3e5pc</guid>
       <title>Stanford Seminar - The Soul of a New Machine: Rethinking the Computer</title>
@@ -39,7 +71,7 @@ View the full playlist: https://www.youtube.com/playlist?list=PLoROMvodv4rMWw6rR
       <itunes:image href="https://i.ytimg.com/vi/vvZA9n3e5pc/default.jpg"></itunes:image>
       <itunes:duration>1:26:02</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>1</itunes:order>
+      <itunes:order>2</itunes:order>
     </item>
     <item>
       <guid>ji5_MqicxSo</guid>
@@ -58,7 +90,7 @@ Learn how to support the Randy Pausch Memorial Bridge, visit: http://www.cmu.edu
       <itunes:image href="https://i.ytimg.com/vi/ji5_MqicxSo/default.jpg"></itunes:image>
       <itunes:duration>1:16:27</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>2</itunes:order>
+      <itunes:order>3</itunes:order>
     </item>
     <item>
       <guid>Ud8WRAdihPg</guid>
@@ -75,7 +107,7 @@ http://webcast.berkeley.edu/course_details_new.php?seriesid=2008-D-26263&semeste
       <itunes:image href="https://i.ytimg.com/vi/Ud8WRAdihPg/default.jpg"></itunes:image>
       <itunes:duration>8:42</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>3</itunes:order>
+      <itunes:order>4</itunes:order>
     </item>
     <item>
       <guid>a1zDuOPkMSw</guid>
@@ -96,7 +128,7 @@ This course is intended to instill a "style of thinking" that will enhance one's
       <itunes:image href="https://i.ytimg.com/vi/a1zDuOPkMSw/default.jpg"></itunes:image>
       <itunes:duration>44:03</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>4</itunes:order>
+      <itunes:order>5</itunes:order>
     </item>
     <item>
       <guid>d_yxhNGsJU8</guid>
@@ -115,7 +147,7 @@ Part of the https://www.internet-class.org online internet course. A blue System
       <itunes:image href="https://i.ytimg.com/vi/d_yxhNGsJU8/default.jpg"></itunes:image>
       <itunes:duration>5:18</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>5</itunes:order>
+      <itunes:order>6</itunes:order>
     </item>
     <item>
       <guid>P380D7yX8xQ</guid>
@@ -135,7 +167,7 @@ Part of the https://www.internet-class.org online internet course. A blue System
       <itunes:image href="https://i.ytimg.com/vi/P380D7yX8xQ/default.jpg"></itunes:image>
       <itunes:duration>5:22</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>6</itunes:order>
+      <itunes:order>7</itunes:order>
     </item>
   </channel>
 </rss>
