@@ -7,7 +7,7 @@
     <category>TV &amp; Film</category>
     <generator>Podsync generator (support us at https://github.com/mxpv/podsync)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 21 Jan 2021 22:18:38 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 Jan 2021 22:38:38 +0000</lastBuildDate>
     <pubDate>Mon, 28 Dec 2020 19:48:38 +0000</pubDate>
     <image>
       <url>https://i.ytimg.com/vi/P380D7yX8xQ/default.jpg</url>
@@ -20,6 +20,43 @@
     <itunes:image href="https://i.ytimg.com/vi/P380D7yX8xQ/default.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="TV &amp; Film"></itunes:category>
+    <item>
+      <guid>9oS0eeI7YuQ</guid>
+      <title>The Future of Web Programming - Jean Yang</title>
+      <link>https://youtube.com/watch?v=9oS0eeI7YuQ</link>
+      <description>Jean drops 🔥 about modern distributed systems vs. biological and chemical systems 🌱,  why web programming today is like medicine in the middle ages 🩸, how developers should demand more of their tooling and experience 🛠.&#xA;&#xA;References / transcript&#xA;https://gist.github.com/robot-dreams/58b28f40d8e7baf87eced36cffdfe591&#xA;&#xA;0:00 Intro&#xA;0:15 Jean&#39;s life story&#xA;3:56 Programming models&#xA;5:47 Top-down design vs. complex systems&#xA;8:34 Methodical programming techniques&#xA;10:50 Akita Software&#39;s use cases&#xA;12:00 API breaking changes&#xA;14:08 Using Akita to take snapshots of system behavior&#xA;16:41 Definition of API graph&#xA;17:44 Specific API example&#xA;20:02 Inferring higher-level properties&#xA;22:00 &#34;Programming Languages&#34; way of viewing the world&#xA;23:11 Watching traffic vs. instrumenting code&#xA;24:15 Possible capabilities in 5-10 years&#xA;26:57 Why is software quality unsexy?&#xA;29:37 Different approaches to software quality&#xA;33:00 Closing thoughts&#xA;35:31 Finding Jean / Akita Software on the internet</description>
+      <pubDate>Thu, 21 Jan 2021 22:21:34 +0000</pubDate>
+      <enclosure url="https://rockswhat.github.io/listener/listen_laterz/9oS0eeI7YuQ.mp3" length="20056062" type="audio/mpeg"></enclosure>
+      <itunes:author>Charlie Harrington: Listen Laterz</itunes:author>
+      <itunes:subtitle>The Future of Web Programming - Jean Yang</itunes:subtitle>
+      <itunes:summary><![CDATA[Jean drops 🔥 about modern distributed systems vs. biological and chemical systems 🌱,  why web programming today is like medicine in the middle ages 🩸, how developers should demand more of their tooling and experience 🛠.
+
+References / transcript
+https://gist.github.com/robot-dreams/58b28f40d8e7baf87eced36cffdfe591
+
+0:00 Intro
+0:15 Jean's life story
+3:56 Programming models
+5:47 Top-down design vs. complex systems
+8:34 Methodical programming techniques
+10:50 Akita Software's use cases
+12:00 API breaking changes
+14:08 Using Akita to take snapshots of system behavior
+16:41 Definition of API graph
+17:44 Specific API example
+20:02 Inferring higher-level properties
+22:00 "Programming Languages" way of viewing the world
+23:11 Watching traffic vs. instrumenting code
+24:15 Possible capabilities in 5-10 years
+26:57 Why is software quality unsexy?
+29:37 Different approaches to software quality
+33:00 Closing thoughts
+35:31 Finding Jean / Akita Software on the internet]]></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/9oS0eeI7YuQ/default.jpg"></itunes:image>
+      <itunes:duration>36:26</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>1</itunes:order>
+    </item>
     <item>
       <guid>Jp9pyMqnBzk</guid>
       <title>Inaugural poet Amanda Gorman delivers a poem at Joe Biden&#39;s inauguration</title>
@@ -65,7 +102,7 @@ https://www.cnbc.com/select/best-credit-cards/
       <itunes:image href="https://i.ytimg.com/vi/Jp9pyMqnBzk/default.jpg"></itunes:image>
       <itunes:duration>5:57</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>1</itunes:order>
+      <itunes:order>2</itunes:order>
     </item>
     <item>
       <guid>gbdqaDRhs84</guid>
@@ -89,7 +126,7 @@ https://distrokid.com/hyperfollow/frankwatkinson/my-life-unplugged]]></itunes:su
       <itunes:image href="https://i.ytimg.com/vi/gbdqaDRhs84/default.jpg"></itunes:image>
       <itunes:duration>3:11</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>2</itunes:order>
+      <itunes:order>3</itunes:order>
     </item>
     <item>
       <guid>JjDsP5n2kSM</guid>
@@ -105,7 +142,7 @@ http://the-witness.net/news/ check it out if you're interested.]]></itunes:summa
       <itunes:image href="https://i.ytimg.com/vi/JjDsP5n2kSM/default.jpg"></itunes:image>
       <itunes:duration>1:15:51</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>3</itunes:order>
+      <itunes:order>4</itunes:order>
     </item>
     <item>
       <guid>f84n5oFoZBc</guid>
@@ -122,7 +159,7 @@ Many thanks to Matt Courtney, who graciously provided the equipment and expertis
       <itunes:image href="https://i.ytimg.com/vi/f84n5oFoZBc/default.jpg"></itunes:image>
       <itunes:duration>39:49</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>4</itunes:order>
+      <itunes:order>5</itunes:order>
     </item>
     <item>
       <guid>EY6q5dv_B-o</guid>
@@ -154,7 +191,7 @@ VCF Discord: https://discord.gg/u4ybsBK
       <itunes:image href="https://i.ytimg.com/vi/EY6q5dv_B-o/default.jpg"></itunes:image>
       <itunes:duration>1:03:51</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>5</itunes:order>
+      <itunes:order>6</itunes:order>
     </item>
     <item>
       <guid>vvZA9n3e5pc</guid>
@@ -175,7 +212,7 @@ View the full playlist: https://www.youtube.com/playlist?list=PLoROMvodv4rMWw6rR
       <itunes:image href="https://i.ytimg.com/vi/vvZA9n3e5pc/default.jpg"></itunes:image>
       <itunes:duration>1:26:02</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>6</itunes:order>
+      <itunes:order>7</itunes:order>
     </item>
     <item>
       <guid>ji5_MqicxSo</guid>
@@ -194,7 +231,7 @@ Learn how to support the Randy Pausch Memorial Bridge, visit: http://www.cmu.edu
       <itunes:image href="https://i.ytimg.com/vi/ji5_MqicxSo/default.jpg"></itunes:image>
       <itunes:duration>1:16:27</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>7</itunes:order>
+      <itunes:order>8</itunes:order>
     </item>
     <item>
       <guid>Ud8WRAdihPg</guid>
@@ -211,7 +248,7 @@ http://webcast.berkeley.edu/course_details_new.php?seriesid=2008-D-26263&semeste
       <itunes:image href="https://i.ytimg.com/vi/Ud8WRAdihPg/default.jpg"></itunes:image>
       <itunes:duration>8:42</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>8</itunes:order>
+      <itunes:order>9</itunes:order>
     </item>
     <item>
       <guid>a1zDuOPkMSw</guid>
@@ -232,7 +269,7 @@ This course is intended to instill a "style of thinking" that will enhance one's
       <itunes:image href="https://i.ytimg.com/vi/a1zDuOPkMSw/default.jpg"></itunes:image>
       <itunes:duration>44:03</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>9</itunes:order>
+      <itunes:order>10</itunes:order>
     </item>
     <item>
       <guid>d_yxhNGsJU8</guid>
@@ -251,7 +288,7 @@ Part of the https://www.internet-class.org online internet course. A blue System
       <itunes:image href="https://i.ytimg.com/vi/d_yxhNGsJU8/default.jpg"></itunes:image>
       <itunes:duration>5:18</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>10</itunes:order>
+      <itunes:order>11</itunes:order>
     </item>
     <item>
       <guid>P380D7yX8xQ</guid>
@@ -271,7 +308,7 @@ Part of the https://www.internet-class.org online internet course. A blue System
       <itunes:image href="https://i.ytimg.com/vi/P380D7yX8xQ/default.jpg"></itunes:image>
       <itunes:duration>5:22</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>11</itunes:order>
+      <itunes:order>12</itunes:order>
     </item>
   </channel>
 </rss>
